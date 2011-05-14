@@ -6,4 +6,4 @@ A Poundie plugin for posting a wikipedia link to campfire
 
 Just `require "poundie-wikipedia"` in your Poundie bot, then post something like:
 
-    poundie wikipedia fast and furious`
+    poundie wikipedia fast and furious
