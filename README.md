@@ -1,7 +1,9 @@
-# poundie-last-tweet
+# poundie-wikipedia
 
-A Poundie plugin for posting the last tweet from a given Twitter user to Campfire.
+A Poundie plugin for posting a wikipedia link to campfire
 
 ## USAGE
 
-Just `require "poundie-last-tweet"` in your Poundie bot.
+Just `require "poundie-wikipedia"` in your Poundie bot, then post something like:
+
+    poundie wikipedia fast and furious`
